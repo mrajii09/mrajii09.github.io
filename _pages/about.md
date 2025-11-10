@@ -63,12 +63,3 @@ ITOA Ambassador
 Presented the ITOA program to incoming freshman/current 
 middle schoolers and their family
 Tutored middle school students (2 years)
-	
-PORTFOLIO
-===
-Advanced Math Game --- Updated "Simple Math Game", with more advanced problems that involve highschool-level mathematics
-	Link: https://github.com/mrajii09/Updated-Math-Game
-Simple Math Game --- Math game for elementary students, first non-terminal app.
-	Link: https://github.com/mrajii09/Math-Game
-Pica-Centro --- Simple numbers-guessing game, first Python project
-	Link: https://github.com/mrajii09/Pica-Centro
