@@ -57,6 +57,12 @@ Python – Community College, Grade letter ‘A’ every semester <br />
 AP Computer Science A, in progress <br />
 Clinical Internship, in progress <br />
 
+PORTFOLIO
+===
+[Updated Math Game] (https://github.com/mrajii09/Updated-Math-Game) <br />
+[Simple Math Game] (https://github.com/mrajii09/Math-Game) <br />
+[Pica-Centro] (https://github.com/mrajii09/Pica-Centro) <br />
+
 COMMUNICATION
 ===
 ITOA Ambassador	<br />
