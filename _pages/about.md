@@ -59,7 +59,8 @@ Clinical Internship, in progress <br />
 
 PORTFOLIO
 ===
-[Advanced Math Game](https://github.com/mrajii09/Updated-Math-Game)
+[Advanced Math Game](https://github.com/mrajii09/Updated-Math-Game) <br >
+A math game with different modes based on skill (elementary, advanced, etc.).
 
 COMMUNICATION
 ===
